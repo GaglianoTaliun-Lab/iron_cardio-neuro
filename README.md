@@ -2,10 +2,14 @@
 
 ‎
 This repository hosts the code pertinent to our research project aimed at assessing the ‎‎impact of serum iron levels on cardiovascular and neurodegenerative diseases.‎
-In this README, you’ll find a comprehensive overview of our project, including :‎
-‎1.Abstract of the project research: summary of the research project, outlining its ‎‎objectives, methodology, key findings ,and implications.‎
-‎2.E-poster Summarising the Results of the Project:‎
-‎3.Outline of the Project Code Stored in This Repository.‎  
+In this README, you’ll find a comprehensive overview of our project, including :‎  
+
+‎1. Abstract of the project research: summary of the research project, outlining its ‎‎objectives, methodology, key findings ,and implications.‎  
+
+‎2. E-poster Summarising the Results of the Project.  
+
+‎3. Outline of the Project Code Stored in This Repository.‎  
+
 
 
   
