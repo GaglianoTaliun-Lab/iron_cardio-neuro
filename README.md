@@ -29,4 +29,5 @@ Impact: Our results will contribute to a better understanding of the genetic bas
 
 ‎**E-poster presented at the World Congress of Psychiatric Genetic (WCPG), October 10-‎‎‎14,2023:‎‎**
 
-‎![Image Alt Text](https://github.com/GaglianoTaliun-Lab/iron_cardio-‎neuro/blob/main/W46_The%20impact%20of%20iron%20levels%20in%20the%20blood‎%20on%20neurodegenerative%20and%20cardiovascular%20disease.JPG?raw=true)‎
+
+![W46_The impact of iron levels in the blood on neurodegenerative and cardiovascular disease](https://github.com/GaglianoTaliun-Lab/iron_cardio-neuro/assets/69006363/7d0b58ad-1e2a-44e3-b578-9e415f7cab11)‎
