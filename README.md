@@ -10,14 +10,16 @@ In this README, you’ll find a comprehensive overview of our project, including
 
 ‎1. Abstract
 
-‎2. E-poster presented at the World Congress of Psychiatric Genetics 2023  
+‎2. E-poster presented at the World Congress of Psychiatric Genetics 2023
 
-3. Outline of the code in this repository.‎  
+3 . Outline of the code in this repository.
+
+ 
 
 
   
 
-‎**Abstract:‎‎**  
+## ‎**Abstract:‎‎**  
 
 Background: Iron is an essential mineral that supports numerous biological functions. Studies have reported associations between iron dysregulation and certain cardiovascular and neurodegenerative diseases, but the direction of influence is not clear. Our goal was to use computational approaches to better understand the role of genetically predicted iron levels on disease risk. 
 
@@ -29,6 +31,41 @@ Impact: Our results will contribute to a better understanding of the genetic bas
 
 
 
-‎**E-poster presented at the World Congress of Psychiatric Genetic (WCPG), October 10-‎‎‎14,2023:‎‎**
+## **E-poster presented at the World Congress of Psychiatric Genetic (WCPG), October 10-‎‎‎14,2023:‎‎**
 
 ![W46_The impact of iron levels in the blood on neurodegenerative and cardiovascular disease](https://github.com/GaglianoTaliun-Lab/iron_cardio-neuro/assets/69006363/7d0b58ad-1e2a-44e3-b578-9e415f7cab11)‎
+
+
+
+## **Outline of the code:‎**
+
+This section includes four directories, each containing code for performing the different analyses in this project and plotting the various figures.
+
+#### Meta analysis using Metal
+
+
+```
+ ./metal ./Meta_analysis/meta_analysis_metal.sh
+```
+
+#### Evaluating GLobal Genetic Correlations using LDSC
+```
+./bash  ./Genetic Correlation/Global_genetic_correlation_LDSC.sh
+
+```
+#### Evaluating Local Genetic Correlations using LAVA
+```
+ Rscript  ./Genetic Correlation/local_genetic_correlation_LAVA.r
+
+```
+
+#### Perfoming Mendelian Randomization 
+
+```
+ Rscript  ./Mendelian Randomization/Performing_MR.r
+
+```
+
+
+
+
