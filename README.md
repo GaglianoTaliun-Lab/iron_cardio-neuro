@@ -3,7 +3,7 @@
 ‎
 This repository hosts the code for the work described in:
 
-Wiame Belbellaj, Frida Lona-Durazo, Cinzia Bodano, David Busseuil, Marie-Christyne Cyr, Edoardo Fiorillo, Antonella Mulas, Sylvie Provost, Maristella Steri, Toshiko Tanaka, Brett Vanderwerff, Jiongming Wang, Ross Patrick Byrne, Francesco Cucca, Marie-Pierre Dubé, Luigi Ferrucci, Russell L. McLaughlin, Jean-Claude Tardif, Matthew Zawistowski, Sarah A. Gagliano Taliun. The role of genetically predicted serum iron levels on neurodegenerative and cardiovascular traits. _Scientific Reports_, 14(1), 24588.
+Wiame Belbellaj, Frida Lona-Durazo, Cinzia Bodano, David Busseuil, Marie-Christyne Cyr, Edoardo Fiorillo, Antonella Mulas, Sylvie Provost, Maristella Steri, Toshiko Tanaka, Brett Vanderwerff, Jiongming Wang, Ross Patrick Byrne, Francesco Cucca, Marie-Pierre Dubé, Luigi Ferrucci, Russell L. McLaughlin, Jean-Claude Tardif, Matthew Zawistowski, Sarah A. Gagliano Taliun (2024) The role of genetically predicted serum iron levels on neurodegenerative and cardiovascular traits. _Scientific Reports_, 14(1), 24588.
 
 
 In this README, you’ll find a comprehensive overview of our project, including :‎  
